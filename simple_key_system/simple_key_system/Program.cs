@@ -11,15 +11,15 @@ namespace simple_key_system
         static void Main(string[] args)
         {
             Console.Write("Key: ");
-            string a = Console.ReadLine();
-            bool key = a == "123";
+            string one = Console.ReadLine();
+            bool key = one == "123";
 
 
 
             // if u wanna add more keys do this
             //-------------------------------
-            //string a2 = Console.ReadLine();
-            //bool key2 = a2 == "123
+            //string two2 = Console.ReadLine();
+            //bool key2 = two2 == "123
             //-------------------------------
             if (key /*|| key2  */)
             {

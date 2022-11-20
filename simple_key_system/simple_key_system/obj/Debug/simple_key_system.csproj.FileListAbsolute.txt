@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\simple_key_system\simple_key_system\bin\Debug\simple_key_system.exe.config
+C:\Users\Owner\source\repos\simple_key_system\simple_key_system\bin\Debug\simple_key_system.exe
+C:\Users\Owner\source\repos\simple_key_system\simple_key_system\bin\Debug\simple_key_system.pdb
+C:\Users\Owner\source\repos\simple_key_system\simple_key_system\obj\Debug\simple_key_system.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\simple_key_system\simple_key_system\obj\Debug\simple_key_system.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\simple_key_system\simple_key_system\obj\Debug\simple_key_system.exe
+C:\Users\Owner\source\repos\simple_key_system\simple_key_system\obj\Debug\simple_key_system.pdb
